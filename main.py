@@ -1,15 +1,14 @@
 import web
 
 urls = (
-    '/(.*)', 'hello'
+    '/(.*)/(.*)', 'index'
 )
+render = web.template.render("resources/")
 app = web.application(urls, globals())
 
-class hello:
-    def GET(self, name):
-        if not name:
-            name = 'World'
-        return 'Hello, ' + name + '!'
+class index:
+    def GET(self, name, age):
+            return render.main(name, age)
 
 if __name__ == "__main__":
     app.run()
