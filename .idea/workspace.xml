@@ -2,33 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e9b31d64-a8b5-4dea-8f90-58ae51332011" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/swag.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/templates/Home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/templates/MainLayout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/Controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap-material-design.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-material-design.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap-material-design.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-material-design.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-theme.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap-theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-theme.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap-theme.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-theme.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap-theme.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-theme.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/css/bootstrap.min.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap.min.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/fonts/glyphicons-halflings-regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/fonts/glyphicons-halflings-regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/fonts/glyphicons-halflings-regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/public/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/js/bootstrap-material-design.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap-material-design.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/js/bootstrap-material-design.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap-material-design.js.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/js/bootstrap-material-design.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap-material-design.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Views/resources/js/npm.js" beforeDir="false" afterPath="$PROJECT_DIR$/public/js/npm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap-material-design.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-material-design.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/bootstrap-material-design.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/bootstrap-material-design.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/swag.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/swag.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap-material-design.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap-material-design.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/js/bootstrap-material-design.min.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
